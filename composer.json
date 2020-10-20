@@ -27,8 +27,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Sober\\Intervention\\": "src/",
-      "Sober\\Intervention\\Module\\": "src/modules/"
+      "Sober\\Intervention\\": "src/"
     }
   },
   "scripts": {
